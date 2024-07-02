@@ -1,4 +1,4 @@
 # 스프링 시큐리티 5.3을 테스트 합니다.
 
 
-(프론트는 Thymeleaf, jQuery로 구현되었습니다.)
+(프런트엔드, 백엔드: 타임 리프, JQuery, SpringBoot 2로 구현)
